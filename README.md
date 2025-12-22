@@ -1,40 +1,63 @@
-### Hello World 👋 It's [Stuart!](https://sdouglas8787/sdouglas8787*.github.io/Portfolio)
+# Stuart Douglas
 
-<br/>
+**Data Scientist | Pricing & Analytics | Business Intelligence**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stuartdouglas87/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@stuartdouglas79)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://sdouglas8787.github.io/Portfolio)
 
-<a href="https://www.linkedin.com/in/stuartdouglas87/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@stuartdouglas79">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
+---
 
-<br />
+## About
 
-Hi,I'm Stuart Douglas🙌, a data scientist, pricing expert and architech Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Data professional with expertise in pricing strategy, revenue analytics, and business intelligence. Currently working as a Global Pricing & Revenue Business Partner, transforming complex data into actionable insights.
 
+- 🔭 Building end-to-end data pipelines and dashboards
+- 📊 Specialising in pricing analytics and revenue optimisation
+- 🌱 Creating documentation to support aspiring data scientists
+- 💬 Open to collaboration and knowledge sharing
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+---
 
+## Technical Skills
 
-**Talking about Personal Stuffs:**
+### Languages & Tools
 
-- 🔭 I’m currently global pricing & revenue business partner.
-- 🌱 I’m currently creating useful documentation to support aspiring data scientist journey.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+### Data & Analytics
 
-**Community**
-- TBC
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-**Languages and Tools:**
+### Development
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Weather Dashboard](https://github.com/sdouglas8787/weather-dashboard) | API data pipeline with Power BI visualisation | Python, Power BI |
+| *More coming soon* | | |
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdouglas8787&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+<p align="center">
+  <i>Open to connecting and collaborating on data projects.</i>
+</p>
