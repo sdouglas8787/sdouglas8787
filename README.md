@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stuartdouglas87/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stuartdouglas79)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sdouglas8787.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sdouglas8787.github.io)
 
 ---
 
@@ -83,28 +83,19 @@ Interactive Power BI dashboards and data stories that make insights accessible t
 
 ## 📂 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sdouglas8787/weather-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdouglas8787&repo=weather-dashboard&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/sdouglas8787/data-portfolio-playbook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sdouglas8787&repo=data-portfolio-playbook&theme=default&hide_border=true" />
-</a>
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌦️ Weather Dashboard](https://github.com/sdouglas8787/weather-dashboard) | API data pipeline with automated processing and Power BI visualisation | Python, APIs, Power BI |
+| [📘 Data Portfolio Playbook](https://github.com/sdouglas8787/data-portfolio-playbook) | End-to-end workflow documentation for Python, Git, and Power BI | Markdown, Git |
+| [🌐 Portfolio Website](https://github.com/sdouglas8787/sdouglas8787.github.io) | Personal portfolio and project showcase | HTML, CSS, GitHub Pages |
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Currently Working On
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sdouglas8787&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sdouglas8787&theme=default&hide_border=true" alt="GitHub Streak" />
-
-</div>
+- 🔭 Building end-to-end data pipelines with Python and Power BI
+- 🌱 Creating documentation to support aspiring data scientists
+- 📊 Developing pricing analytics and revenue optimisation tools
 
 ---
 
