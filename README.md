@@ -3,20 +3,11 @@
 <br/>
 
 
-<a href="https://twitter.com/sdouglas8787/sdouglas8787*">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
+<a href="https://www.linkedin.com/in/stuartdouglas87/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@saketprag322">
+<a href="https://medium.com/@stuartdouglas79">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sdouglas8787/sdouglas8787*/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
 
@@ -30,7 +21,7 @@ Hi,I'm Stuart Douglas🙌, a data scientist, pricing expert and architech Enthus
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
+- 🔭 I’m currently global pricing & revenue business partner.
 - 🌱 I’m currently creating useful documentation to support aspiring data scientist journey.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
