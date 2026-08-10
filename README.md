@@ -2,11 +2,10 @@
 
 # Stuart Douglas
 
-**Data Scientist | Pricing & Revenue Analytics | Business Intelligence**
+**Pricing & Commercial Analytics | Databricks · Power BI · SQL**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stuartdouglas87/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stuartdouglas79)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdouglas8787?tab=repositories)
 
 </div>
 
@@ -14,51 +13,53 @@
 
 ### About
 
-Data professional with expertise in pricing strategy, revenue analytics, and business intelligence. I help organisations transform complex data into actionable insights that drive commercial decisions.
+I lead pricing strategy and commercial analytics for a global engineering business, and I build the tools underneath it. Most pricing problems aren't technology problems — they're governance, discipline and adoption problems. The technology just makes the fix scalable.
 
-Currently working as a Global Pricing & Revenue Business Partner, delivering end-to-end analytics solutions from data engineering through to executive dashboards.
-
----
-
-## Services
-
-| Area | Description |
-|------|-------------|
-| **Pricing Analytics** | Price optimisation, margin analysis, competitive benchmarking, elasticity modelling |
-| **Data Engineering** | Pipeline development, API integrations, ETL workflows, automated reporting |
-| **Business Intelligence** | Dashboard design, KPI frameworks, data visualisation, stakeholder reporting |
-| **Revenue Operations** | Forecasting models, performance tracking, commercial analytics |
+The repositories here are working examples of that: small, documented, reproducible tools that solve a specific commercial problem end to end.
 
 ---
 
-## Technical Expertise
+## What I Work On
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, SQL, DAX, M Query |
-| **Data Processing** | Pandas, NumPy, PySpark, Databricks |
-| **Visualisation** | Power BI, Matplotlib, Seaborn, Plotly |
-| **Machine Learning** | Scikit-learn, XGBoost, Statistical Modelling |
-| **Platforms** | Azure, SAP, Git, Jupyter |
-
----
-
-## Selected Projects
-
-| Project | Description |
-|---------|-------------|
-| [Weather Dashboard](https://github.com/sdouglas8787/weather-dashboard) | End-to-end data pipeline: API ingestion, automated processing, Power BI visualisation |
-| [Data Portfolio Playbook](https://github.com/sdouglas8787/data-portfolio-playbook) | Technical documentation and workflow guides for data professionals |
+| Area | Detail |
+|------|--------|
+| **Pricing governance** | Gross-to-Net waterfalls, discount corridors, price realisation measurement, delegation of authority controls |
+| **Commercial analytics** | Transaction-level margin analysis, customer and channel profitability, revenue bridge reporting |
+| **Data engineering** | ETL pipelines across ERP systems, external API integration, curated datasets for self-service reporting |
+| **Forecasting** | Macroeconomic indicator pipelines, backtested forecast models, scenario and budget planning |
 
 ---
 
-## Contact
+## Technical
 
-Open to consulting engagements, contract work, and collaboration opportunities.
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, SQL, DAX, Power Query M |
+| **Data** | Pandas, NumPy, PySpark, Databricks |
+| **Reporting** | Power BI, Matplotlib, Plotly |
+| **Platforms** | Azure, SAP, QAD, Git |
+
+---
+
+## Projects
+
+| Project | What it does |
+|---------|--------------|
+| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-Net pricing waterfall — decomposes list price to invoice, quantifying where margin leaks at each stage |
+| [fx_watchlist_v2](https://github.com/sdouglas8787/fx_watchlist_v2) | FX rate monitoring and alerting pipeline |
+
+---
+
+## Writing
+
+**[I nearly made a £421 mistake on my energy tariff. So I built my own forecasting engine.](https://medium.com/@stuartdouglas79/i-nearly-made-a-421-mistake-on-my-energy-tariff-so-i-built-my-own-forecasting-engine-0203a8a535e6)**  
+Walk-forward validation, bias correction, Monte Carlo simulation and weather normalisation — applied to a household energy bill. The standing charge trap that every comparison site missed.
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stuartdouglas79@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stuartdouglas79@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stuartdouglas87/)
 
 </div>
