@@ -48,7 +48,7 @@ The repositories here are working examples of that. Small, documented, reproduci
 
 | Project | What it does |
 |---------|--------------|
-| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-net and price/volume/mix bridges. Trade terms, conditional vs unconditional spend, attainment, and realised YoY price growth. Built so a subtotal cannot be double-counted into the walk and the unexplained residual is always shown, never absorbed |
+| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-net and PVM bridges. Trade terms, conditional vs unconditional spend, attainment, and realised YoY price growth. Built so a subtotal cannot be double-counted into the walk and the unexplained residual is always shown, never absorbed |
 | [home_energy_tariff_tracker](https://github.com/sdouglas8787/home_energy_tariff_tracker) | Forecasting engine for household energy costs. Walk-forward backtesting, bias correction, Monte Carlo tariff comparison and weather normalisation |
 | [weather-dashboard](https://github.com/sdouglas8787/weather-dashboard) | End to end pipeline: API ingestion, automated processing and Power BI reporting |
 | [fx_watchlist_v2](https://github.com/sdouglas8787/fx_watchlist_v2) | FX rate monitoring and alerting pipeline |
