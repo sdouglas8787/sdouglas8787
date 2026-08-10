@@ -26,6 +26,7 @@ The repositories here are working examples of that: small, documented, reproduci
 | Area | Detail |
 |------|--------|
 | **Pricing governance** | Gross-to-Net waterfalls, discount corridors, price realisation measurement, delegation of authority controls |
+| **Revenue growth management** | Trade terms structure, conditional vs unconditional spend, promotional investment and attainment tracking, price/volume/mix decomposition, realised price growth |
 | **Commercial analytics** | Transaction-level margin analysis, customer and channel profitability, revenue bridge reporting |
 | **Data engineering** | ETL pipelines across ERP systems, external API integration, curated datasets for self-service reporting |
 | **Forecasting** | Macroeconomic indicator pipelines, backtested forecast models, scenario and budget planning |
@@ -47,7 +48,9 @@ The repositories here are working examples of that: small, documented, reproduci
 
 | Project | What it does |
 |---------|--------------|
-| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-Net pricing waterfall — decomposes list price to invoice, quantifying where margin leaks at each stage |
+| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Two commercial finance bridges that reconcile by construction — gross-to-net (trade terms, conditional vs unconditional spend, attainment) and price/volume/mix with realised YoY price growth. Typed movements prevent double-counting; the unexplained residual is always derived and disclosed |
+| [home_energy_tariff_tracker](https://github.com/sdouglas8787/home_energy_tariff_tracker) | Forecasting engine for household energy costs — walk-forward backtesting, bias correction, Monte Carlo tariff comparison and weather normalisation |
+| [weather-dashboard](https://github.com/sdouglas8787/weather-dashboard) | End-to-end pipeline: API ingestion, automated processing and Power BI reporting |
 | [fx_watchlist_v2](https://github.com/sdouglas8787/fx_watchlist_v2) | FX rate monitoring and alerting pipeline |
 
 ---
