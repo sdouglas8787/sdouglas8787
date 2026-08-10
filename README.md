@@ -17,6 +17,8 @@ I lead pricing strategy and commercial analytics for a global engineering busine
 
 The repositories here are working examples of that: small, documented, reproducible tools that solve a specific commercial problem end to end.
 
+📧 **stuartdouglas79@gmail.com**
+
 ---
 
 ## What I Work On
@@ -54,12 +56,3 @@ The repositories here are working examples of that: small, documented, reproduci
 
 **[I nearly made a £421 mistake on my energy tariff. So I built my own forecasting engine.](https://medium.com/@stuartdouglas79/i-nearly-made-a-421-mistake-on-my-energy-tariff-so-i-built-my-own-forecasting-engine-0203a8a535e6)**  
 Walk-forward validation, bias correction, Monte Carlo simulation and weather normalisation — applied to a household energy bill. The standing charge trap that every comparison site missed.
-
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stuartdouglas79@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stuartdouglas87/)
-
-</div>
