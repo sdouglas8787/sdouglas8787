@@ -13,7 +13,7 @@
 
 ### About
 
-I lead pricing strategy and commercial analytics for a global engineering business, and I build the tools underneath it. Most pricing problems aren't technology problems: they're governance, discipline and adoption problems. The technology just makes the fix scalable.
+I lead pricing strategy and commercial analytics for a global engineering business, and I build the tools underneath it. It's engineered-to-order: BOMs created daily, varying metallurgy, custom sizing, no two orders identical. I've worked the other end of it too, high volume and standard parts. Most pricing problems aren't technology problems: they're governance, discipline and adoption problems. The technology just makes the fix scalable.
 
 The repositories here are working examples of that. Small, documented, reproducible tools that solve a specific commercial problem end to end.
 
@@ -26,9 +26,9 @@ The repositories here are working examples of that. Small, documented, reproduci
 | Area | Detail |
 |------|--------|
 | **Pricing governance** | Gross-to-Net waterfalls, discount corridors, price realisation measurement, delegation of authority controls |
-| **Revenue growth management** | Trade terms structure, conditional vs unconditional spend, promotional attainment, price/volume/mix |
-| **Commercial analytics** | Transaction-level margin analysis, customer and channel profitability, revenue bridge reporting |
-| **Data engineering** | ETL pipelines across ERP systems, external API integration, curated datasets for self-service reporting |
+| **Revenue growth management** | Trade terms structure, conditional vs unconditional spend, promotional attainment, PVM |
+| **Commercial analytics** | Transaction-level margin analysis, customer and channel profitability, revenue bridge reporting. Engineered-to-order and high-volume standard parts |
+| **Data engineering** | ETL pipelines across ERP systems, parent-to-component BOM expansion, external API integration, curated datasets for self-service reporting |
 | **Forecasting** | Macroeconomic indicator pipelines, backtested forecast models, scenario and budget planning |
 
 ---
@@ -48,7 +48,7 @@ The repositories here are working examples of that. Small, documented, reproduci
 
 | Project | What it does |
 |---------|--------------|
-| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-net and PVM bridges. Trade terms, conditional vs unconditional spend, attainment, and realised YoY price growth. Built so a subtotal cannot be double-counted into the walk and the unexplained residual is always shown, never absorbed |
+| [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-net and PVM bridges. Trade terms, conditional vs unconditional spend, attainment, YoY price growth. Built so it can't quietly stop adding up, and so anything it can't explain gets shown rather than buried |
 | [home_energy_tariff_tracker](https://github.com/sdouglas8787/home_energy_tariff_tracker) | Forecasting engine for household energy costs. Walk-forward backtesting, bias correction, Monte Carlo tariff comparison and weather normalisation |
 | [weather-dashboard](https://github.com/sdouglas8787/weather-dashboard) | End to end pipeline: API ingestion, automated processing and Power BI reporting |
 | [fx_watchlist_v2](https://github.com/sdouglas8787/fx_watchlist_v2) | FX rate monitoring and alerting pipeline |
