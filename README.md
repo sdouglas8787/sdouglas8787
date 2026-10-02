@@ -17,7 +17,7 @@ I lead pricing strategy and commercial analytics for a global engineering busine
 
 The repositories here are working examples of that. Small, documented, reproducible tools that solve a specific commercial problem end to end.
 
-📧 **stuartdouglas79@gmail.com**
+🌐 **[sdouglas8787.github.io](https://sdouglas8787.github.io)** · 📧 **stuartdouglas79@gmail.com**
 
 ---
 
@@ -48,9 +48,10 @@ The repositories here are working examples of that. Small, documented, reproduci
 
 | Project | What it does |
 |---------|--------------|
+| [input_cost_tracker](https://github.com/sdouglas8787/input_cost_tracker) | UK input costs and pass-through from ONS producer price data. Rule-generated monthly reading, self-validation against the published bulletin, and explicit statements of what the data will and will not support |
 | [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-net and PVM bridges. Trade terms, conditional vs unconditional spend, attainment, YoY price growth. Built so it can't quietly stop adding up, and so anything it can't explain gets shown rather than buried |
 | [home_energy_tariff_tracker](https://github.com/sdouglas8787/home_energy_tariff_tracker) | Forecasting engine for household energy costs. Walk-forward backtesting, bias correction, Monte Carlo tariff comparison and weather normalisation |
-| [weather-dashboard](https://github.com/sdouglas8787/weather-dashboard) | End to end pipeline: API ingestion, automated processing and Power BI reporting |
+| [weather_dashboard](https://github.com/sdouglas8787/weather_dashboard) | End to end pipeline: API ingestion, automated processing and Power BI reporting |
 | [fx_watchlist_v2](https://github.com/sdouglas8787/fx_watchlist_v2) | FX rate monitoring and alerting pipeline |
 
 ---
