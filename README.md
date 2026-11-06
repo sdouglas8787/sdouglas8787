@@ -63,5 +63,12 @@ The repositories here are working examples of that. Small, documented, reproduci
 
 ## Writing
 
+**[The unglamorous machinery](https://sdouglas8787.github.io/essays/the-unglamorous-machinery.html)**
+Why pricing programmes fail without governance, and what the machinery actually is: a reference price, a corridor, an audit with teeth, a measure of landing, and a residual that gets reported.
+
+**[The price book, defended](https://sdouglas8787.github.io/essays/the-price-book-defended.html)**
+Four questions a list price must survive, dispersion as information, announced versus achieved, and the maturity path from habit to evidence to experiment.
+
+
 **[I nearly made a £421 mistake on my energy tariff. So I built my own forecasting engine.](https://medium.com/@stuartdouglas79/i-nearly-made-a-421-mistake-on-my-energy-tariff-so-i-built-my-own-forecasting-engine-0203a8a535e6?source=friends_link&sk=7e9fadddd3d08a86adf1583a9868db44)**  
 Every comparison site got it wrong because none of them knew how I actually use energy. Walk-forward validation, bias correction and Monte Carlo simulation, applied to a gas bill.
