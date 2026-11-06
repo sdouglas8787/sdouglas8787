@@ -49,6 +49,7 @@ The repositories here are working examples of that. Small, documented, reproduci
 | Project | What it does |
 |---------|--------------|
 | [input_cost_tracker](https://github.com/sdouglas8787/input_cost_tracker) | UK input costs and pass-through from ONS producer price data. Rule-generated monthly reading, self-validation against the published bulletin, and explicit statements of what the data will and will not support |
+| [macro_chartbook](https://github.com/sdouglas8787/macro_chartbook) | Designed one-page UK macro readout from public ONS and FRED series. Rule-generated executive summary, YoY / rolling-12 / Wtd-R12 / CAGR battery, source and vintage on every chart |
 | [motorcycle_sales_forecast](https://github.com/sdouglas8787/motorcycle_sales_forecast) | UK motorcycle registrations forecast from ~80 scraped MCIA press PDFs and Met Office data. Rolling backtest: OLS 10.3% MAPE against SARIMAX 14.6% and seasonal naive 23.0%. Weather tested and mostly rejected |
 | [uk_stock_tracker](https://github.com/sdouglas8787/uk_stock_tracker) | Multi-retailer stock and price monitor: one consistent reading from eleven sources that each publish differently, every reading labelled with the route it came from |
 | [team_kanban_tracker](https://github.com/sdouglas8787/team_kanban_tracker) | Excel Kanban workbook built by script: one task list, a board and team summary that build themselves |
