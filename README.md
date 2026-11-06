@@ -49,6 +49,9 @@ The repositories here are working examples of that. Small, documented, reproduci
 | Project | What it does |
 |---------|--------------|
 | [input_cost_tracker](https://github.com/sdouglas8787/input_cost_tracker) | UK input costs and pass-through from ONS producer price data. Rule-generated monthly reading, self-validation against the published bulletin, and explicit statements of what the data will and will not support |
+| [motorcycle_sales_forecast](https://github.com/sdouglas8787/motorcycle_sales_forecast) | UK motorcycle registrations forecast from ~80 scraped MCIA press PDFs and Met Office data. Rolling backtest: OLS 10.3% MAPE against SARIMAX 14.6% and seasonal naive 23.0%. Weather tested and mostly rejected |
+| [uk_stock_tracker](https://github.com/sdouglas8787/uk_stock_tracker) | Multi-retailer stock and price monitor: one consistent reading from eleven sources that each publish differently, every reading labelled with the route it came from |
+| [team_kanban_tracker](https://github.com/sdouglas8787/team_kanban_tracker) | Excel Kanban workbook built by script: one task list, a board and team summary that build themselves |
 | [g2n_waterfall](https://github.com/sdouglas8787/g2n_waterfall) | Gross-to-net and PVM bridges. Trade terms, conditional vs unconditional spend, attainment, YoY price growth. Built so it can't quietly stop adding up, and so anything it can't explain gets shown rather than buried |
 | [home_energy_tariff_tracker](https://github.com/sdouglas8787/home_energy_tariff_tracker) | Forecasting engine for household energy costs. Walk-forward backtesting, bias correction, Monte Carlo tariff comparison and weather normalisation |
 | [weather_dashboard](https://github.com/sdouglas8787/weather_dashboard) | End to end pipeline: API ingestion, automated processing and Power BI reporting |
